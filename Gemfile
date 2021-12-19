@@ -64,3 +64,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "idsimple-rack", git: "https://github.com/idsimple/idsimple-rack", branch: "main"

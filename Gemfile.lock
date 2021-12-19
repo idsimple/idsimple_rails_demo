@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/idsimple/idsimple-rack
+  revision: ed42950123f209f51872338d56a50b3f17c835b1
+  branch: main
+  specs:
+    idsimple-rack (0.1.0)
+      jwt (~> 2.0)
+      rack (>= 1.0, < 3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -94,6 +103,7 @@ GEM
       reline (>= 0.2.7)
     jbuilder (2.11.4)
       activesupport (>= 5.0.0)
+    jwt (2.3.0)
     loofah (2.13.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -191,6 +201,7 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
+  idsimple-rack!
   importmap-rails
   jbuilder
   puma (~> 5.0)
