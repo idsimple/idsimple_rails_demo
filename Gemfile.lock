@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/idsimple/idsimple-rack
-  revision: 512069238e4978862931344964eeffa1a91abe16
+  revision: 3a1dd9637d6a620ed48618cfe3f655ece75ed129
   branch: main
   specs:
     idsimple-rack (0.1.0)
