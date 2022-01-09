@@ -65,4 +65,4 @@ group :test do
   gem "webdrivers"
 end
 
-gem "idsimple-rack", git: "https://github.com/idsimple/idsimple-rack", branch: "main"
+gem "idsimple-rack"
