@@ -11,11 +11,14 @@ To get going, first [sign up for idsimple](https://app.idsimple.io/account/sign_
 
 3. Once you've created an app, you'll be presented with the App ID, App Session API Key, and Signing Secret. Keep these on screen or copy them somewhere temporarily. You'll need them for step `5` below.
 
-4. Clone this repo and `cd` into the project.
+4. Clone this repo, `cd` into the project, and `bundle install`.
 
 ```sh
 git clone https://github.com/idsimple/idsimple_rails_demo.git
+
 cd idsimple_rails_demo
+
+bundle install
 ```
 
 5. Run the demo using the App ID, API Key, and Signing Secret from step `3`.
