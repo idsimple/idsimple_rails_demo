@@ -5,7 +5,7 @@ This is a simple demo to show how to setup [idsimple](https://idsimple.io) in a 
 To get going, first [sign up for idsimple](https://app.idsimple.io/account/sign_up) and then follow the steps below:
 
 
-1. Create an organization on idsimple if you don't have one already.
+1. Create an organization on idsimple if you haven't already.
 
 2. Create an app and name it "Rails Demo". Set the access url to `http://localhost:3000`. You'll want to use `http` and not `https` for the demo. See the [Getting Started](https://idsimple.io/docs/getting-started) doc to see some screenshots.
 
