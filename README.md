@@ -28,4 +28,4 @@ IDSIMPLE_APP_ID=INSERT_YOUR_APPID IDSIMPLE_API_KEY=INSERT_YOUR_API_KEY IDSIMPLE_
 
 7. Log in with your idsimple credentials and you will be redirected back to the app at `http://localhost:3000`. You should now see a "Hello! You're now authenticated!" message. By authenticating with idsimple, you've validated that you have access to the demo application and started your first session. If you now navigate back to your app in the idsimple application at `https://app.idsimple.io/apps/:app_id`, you'll see the session you created!
 
-Now that you're up and running, you can play with various app settings at `https://app.idsimple.io/apps/:app_id/settings` and configuration settings for `idsimple-rack` in the [initializer](https://github.com/idsimple/idsimple_rails_demo/blob/main/config/initializers/idsimple.rb).
+Now that you're up and running, you can play with various app settings at `https://app.idsimple.io/apps/:app_id/settings` and [configuration settings for `idsimple-rack`](https://github.com/idsimple/idsimple-rack#configuration) in the [initializer](https://github.com/idsimple/idsimple_rails_demo/blob/main/config/initializers/idsimple.rb).
